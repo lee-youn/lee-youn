@@ -1,4 +1,4 @@
-### Hi there 👋
+### README 수정중입니당 👋
 
 <!--
 **lee-youn/lee-youn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
