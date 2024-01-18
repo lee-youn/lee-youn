@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lee-youn&theme=calm)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lee-youn&theme=calm" alt="GitHub Streak" /></a>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lee-youn&theme=calm)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lee-youn&theme=calm)
 ![](./profile-3d-contrib/profile-green-animate.svg)
