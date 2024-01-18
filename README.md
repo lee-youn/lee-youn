@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lee-youn&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lee-youn&theme=calm)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lee-youn&theme=calm)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lee-youn&theme=calm)
 ![](./profile-3d-contrib/profile-green-animate.svg)
