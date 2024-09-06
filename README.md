@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lee-youn&theme=calm)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lee-youn&theme=calm)
 ![](./profile-3d-contrib/profile-season-animate.svg)
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lee-youn&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="yungyung's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lee-youna&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
