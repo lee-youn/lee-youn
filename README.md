@@ -15,12 +15,10 @@ Here are some ideas to get you started:
 ## 🛠️ Tech Stack
 
 ### ✍️ Languages
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/go-00ADD8?style=flat&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/latex-008080?style=flat&logo=latex&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/go-00ADD8?style=flat&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/latex-008080?style=flat&logo=latex&logoColor=white"/>
 
 ### 🌐 Frontend
-<img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white">
-<img src="https://img.shields.io/badge/latex-008080?style=flat&logo=latex&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/vite-646CFF?style=flat&logo=vite&logoColor=white"/> <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
 
 ### ⚙️ Backend
 
